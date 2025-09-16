@@ -60,3 +60,4 @@ Looking at the 95% confidence level. I saw the confidence interval of the front-
 
 ## Conclusions
 
+what i learned in todays class is that looking at numerical catrgorical data but the difrence this time is that there are more diffrenet categories and so i used my helper file and went down to one way anova to help me solve this assignemnt it is more complicated than the last numerical categories data i used.
